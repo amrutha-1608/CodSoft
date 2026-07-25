@@ -1,8 +1,8 @@
-##CodSoft Internship Projects##
+#CodSoft Internship Projects
 
 This repository contains the machine learning projects completed as part of the CodSoft Internship Program. The work focuses on solving real-world classification problems using data analysis, preprocessing, and predictive modeling techniques.
 
-Project Overview
+##Project Overview
 
 The projects in this repository demonstrate practical implementation of machine learning concepts, including data preprocessing, feature engineering, model training, and evaluation.
 
